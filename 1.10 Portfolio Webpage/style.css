@@ -1,0 +1,127 @@
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #003148;
+    font-weight: lighter;
+    font-stretch: narrower;
+    background-color: #ede3b2;
+    padding: 18px;
+    text-align: center;  
+}
+
+a:link {color: #cc0000}
+a:hover {color:rgb(25, 150, 143)}
+a:visited {color: #003148}
+a:active {color: rgb(25, 150, 143)}
+
+nav {
+    word-spacing: 8px;
+    text-align: center;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #003148;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: -1px;
+    font-weight: 100;
+    font-size: 26px;
+    color: #003148; 
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: -1px;
+    font-weight: 100;
+    font-size: 22px;
+    color: #003148;       
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: -1px;
+    font-weight: 100;
+    font-size: 18px;
+    color: #003148;  
+}
+
+main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 32%;
+    margin-left: 32%;
+    font-weight: 100;
+    letter-spacing: -1px;
+    font-size: 17px;
+    color: #003148;      
+}
+
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: -1px;
+    font-weight: 100;
+    font-size: 15px;
+    color: #003148;  
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -1px;
+    font-weight: 100;
+    font-size: 14px;
+    color: #003148; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+    width: 450px;
+}
+
+.image-circle {
+    border-radius: 50%;
+    width: 160px; 
+    border-style: outset;
+    border-width: 2px;
+    border-color: #003148;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+body {
+    color: white;
+    background-color: #ede3b2;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -1px;
+    font-weight: 100;
+    font-size: 15px;
+    color: #003148; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #003148;
+    font-weight: lighter;
+    font-weight: 100px;
+    background-color: #ede3b2;
+    padding: 18px;
+    text-align: center;
+}
